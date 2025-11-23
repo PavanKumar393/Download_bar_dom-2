@@ -23,7 +23,7 @@ main {
 
 #card {
   min-height: 40vh;
-  width: 55vw;
+  width: 80vw;
   background-color: rgb(241, 243, 240);
   border-radius: 2vh;
   display: flex;
@@ -78,13 +78,15 @@ button {
 }
 
 #btn {
+    background-color: red;
   display: flex;
   justify-content: space-between;
   margin-top: 1vh;
   align-items: center;
+  margin-top: 4vh;
 }
 #btn h1 {
-  font-size: 4vh;
+  font-size: 3vh;
   align-items: center;
 }
 
