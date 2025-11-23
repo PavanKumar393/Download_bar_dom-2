@@ -47,10 +47,11 @@ h2 span {
 #success {
   color: green;
   display: none;
-  font-size: 3vh;
+  font-size: 2.6vh;
+  letter-spacing: -4px;
 }
 #outer {
-  height: 1vh;
+  height: 1.5vh;
   width: 80%;
   background-color: grey;
   border-radius: 5vh;
@@ -78,7 +79,7 @@ button {
 }
 
 #btn {
-    background-color: red;
+  
   display: flex;
   justify-content: space-between;
   margin-top: 1vh;
@@ -86,7 +87,7 @@ button {
   margin-top: 4vh;
 }
 #btn h1 {
-  font-size: 3vh;
+  font-size: 3.5vh;
   align-items: center;
 }
 

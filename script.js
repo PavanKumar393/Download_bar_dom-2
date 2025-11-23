@@ -19,7 +19,7 @@ btn.addEventListener("click", () => {
 
     if (i === 100) {
       btn.innerText = "Downloded";
-      btn.style.opacity = 0.6;
+      btn.style.opacity = 0.3;
       btn.style.backgroundColor = "green";
       btn.style.pointerEvents = "none";
       success.style.display = "block";
